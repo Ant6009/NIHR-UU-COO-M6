@@ -221,6 +221,76 @@
     }
   },
   {
+    "_id": "c-2281",
+    "_parentId": "b-216",
+    "_type": "component",
+    "_component": "text",
+    "_classes": "info-icon",
+    "_layout": "full",
+    "title": "  Specificity",
+    "displayTitle": "",
+    "body": "A test with high sensitivity but low specificity will have high levels of false positives, greater referrals, more cost and time burdens, and patients with undue worries. Whereas a test with high specificity and low sensitivity will have higher false negatives, leading to no diagnosis of pathology or late diagnosis of pathology if the test is repeated. Ideally sensitivity and specificity are high, but in practice a cut-off is selected as a compromise between the two to optimise the balance between sensitivity and specificity (Saunders et al., 2015). ",
+    "instruction": "",
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  
+  {
+        "_id": "c-2283",
+        "_parentId": "b-217",
+        "_type": "component",
+        "_component": "graphic",
+        "_classes": "",
+        "_layout": "",
+        "title": "",
+        "displayTitle": "",
+        "body": "Often the performance of a diagnostic test can be evaluated using receiver operating characteristic (ROC) curves. These are a plot of the test sensitivity between 0 – 1 (where 0 = poor sensitivity and 1 = perfect sensitivity) and 1-specificity (where 0 = optimal specificity and 1 = poor specificity). The area under the ROC curve provides a summary measure of the overall test performance, it being suggested that an ROC >0.8 is required as a minimum for a diagnostic test. ROC curves illustrating (a) high sensitivity & high specificity, and (b) low sensitivity and low specificity may be seen below.",
+        "instruction": "",
+        "_graphic": {
+            "alt": "",
+            "longdescription": "",
+            "large": "course/en/images/HLSS.jpg",
+            "small": "course/en/images/HLSS.jpg",
+            "attribution": "",
+            "_url": "",
+            "_target": ""
+        },
+        "_isScrollable": false,
+        "_defaultScrollPercent": 0,
+        "_pageLevelProgress": {
+            "_isEnabled": false
+        }
+    },
+    
+    {
+        "_id": "c-2284",
+        "_parentId": "b-218",
+        "_type": "component",
+        "_component": "graphic",
+        "_classes": "",
+        "_layout": "",
+        "title": "",
+        "displayTitle": "",
+        "body": "Below  is an example of an ROC curve using intraocular pressure (IOP) cut-offs to screen for glaucoma.",
+        "instruction": "",
+        "_graphic": {
+            "alt": "",
+            "longdescription": "",
+            "large": "course/en/images/ROC-Glaucoma.jpg",
+            "small": "course/en/images/ROC-Glaucoma.jpg",
+            "attribution": "",
+            "_url": "https://www.aao.org/education/bcscsnippetdetail.aspx?id=41b7c50b-46a2-4346-a41d-62cacf474bbf",
+            "_target": ""
+        },
+        "_isScrollable": false,
+        "_defaultScrollPercent": 0,
+        "_pageLevelProgress": {
+            "_isEnabled": false
+        }
+    },
+  {
     "_id": "c-230",
     "_parentId": "b-220",
     "_type": "component",
