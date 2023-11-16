@@ -184,7 +184,8 @@
     "body": "To determine a particular tests ability to diagnose a certain pathology or to detect a particular sign of the presence of the disease (e.g., reduced visual function), it is pertinent to examine the sensitivity and specificity of a test alongside reported confidence intervals. This can be done by performing the test on a group of individuals with the known pathology for example glaucoma. ",
     "instruction": "",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
     }
   },
   {
@@ -266,7 +267,7 @@
     "_parentId": "b-218",
     "_type": "component",
     "_component": "graphic",
-    "_classes": "",
+    "_classes": "img-smaller",
     "_layout": "",
     "title": "",
     "displayTitle": "",
@@ -370,7 +371,6 @@
         "_classes": ""
       }
     ],
-    
     "_pageLevelProgress": {
       "_isEnabled": true
     }
@@ -575,192 +575,191 @@
     "_id": "c-310",
     "_parentId": "b-310",
     "_type": "component",
-      "_component": "matching",
-      "_classes": "",
-      "_layout": "full",
-      "title": "Matching",
-      "displayTitle": "",
-      "body": "Fill in the blank with the correct option.",
-      "instruction": "Choose an option from each dropdown list and select Submit.",
-      "ariaQuestion": "Question text specifically for screen readers.",
-      "_attempts": 1,
-      "_shouldDisplayAttempts": false,
-      "_shouldResetAllAnswers": false,
-      "_isRandom": false,
-      "_isRandomQuestionOrder": true,
-      "_questionWeight": 1,
-      "_canShowModelAnswer": true,
-      "_canShowFeedback": true,
-      "_canShowMarking": true,
-      "_recordInteraction": true,
-      "placeholder": "Please select an option",
-      "_allowOnlyUniqueAnswers": false,
-      "_hasItemScoring": false,
-      "_items": [
+    "_component": "matching",
+    "_classes": "",
+    "_layout": "full",
+    "title": "Matching",
+    "displayTitle": "",
+    "body": "Fill in the blank with the correct option.",
+    "instruction": "Choose an option from each dropdown list and select Submit.",
+    "ariaQuestion": "Question text specifically for screen readers.",
+    "_attempts": 1,
+    "_shouldDisplayAttempts": false,
+    "_shouldResetAllAnswers": false,
+    "_isRandom": false,
+    "_isRandomQuestionOrder": true,
+    "_questionWeight": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_recordInteraction": true,
+    "placeholder": "Please select an option",
+    "_allowOnlyUniqueAnswers": false,
+    "_hasItemScoring": false,
+    "_items": [
+      {
+        "text": "An effect that is really big for some subjects and really small for others may not be ___________ significant.",
+        "_options": [
           {
-              "text": "An effect that is really big for some subjects and really small for others may not be ___________ significant.",
-              "_options": [
-                  {
-                      "text": "Clinically",
-                      "_isCorrect": false,
-                      "_score": 0
-                  },
-                  {
-                      "text": "Statistically",
-                      "_isCorrect": true,
-                      "_score": 1
-                  }
-              ]
+            "text": "Clinically",
+            "_isCorrect": false,
+            "_score": 0
           },
           {
-              "text": "A result is statistically _____________ if p<0.05.",
-              "_options": [
-                  {
-                      "text": "Clinically",
-                      "_isCorrect": false,
-                      "_score": 0
-                  },
-                  {
-                      "text": "Statistically",
-                      "_isCorrect": true,
-                      "_score": 1
-                  }
-              ]
-          },
-          {
-              "text": "A small but consistent effect can be __________ significant.",
-              "_options": [
-                  {
-                      "text": "Clinically",
-                      "_isCorrect": false,
-                      "_score": 0
-                  },
-                  {
-                      "text": "Statistically",
-                      "_isCorrect": true,
-                      "_score": 1
-                  }
-              ]
-          },
-          {
-              "text": "A small but consistent effect may not be __________ significant.",
-              "_options": [
-                  {
-                      "text": "Clinically",
-                      "_isCorrect": true,
-                      "_score": 0
-                  },
-                  {
-                      "text": "Statistically",
-                      "_isCorrect": false,
-                      "_score": 1
-                  }
-              ]
-          },
-          {
-              "text": "An effect that is really big for some subjects and really small for others may be __________ significant for some patients.",
-              "_options": [
-                  {
-                      "text": "Clinically",
-                      "_isCorrect": true,
-                      "_score": 0
-                  },
-                  {
-                      "text": "Statistically",
-                      "_isCorrect": false,
-                      "_score": 1
-                  }
-              ]
-          },
-          {
-              "text": "Whether a result is __________ significant or not depends on several factors, such as the goals of the patient and the cost of the intervention.",
-              "_options": [
-                  {
-                      "text": "Clinically",
-                      "_isCorrect": true,
-                      "_score": 0
-                  },
-                  {
-                      "text": "Statistically",
-                      "_isCorrect": false,
-                      "_score": 1
-                  }
-              ]
-          },
-          {
-              "text": "A low cost, easy to implement intervention may be clinically significant even with a small effect.",
-              "_options": [
-                  {
-                      "text": "False",
-                      "_isCorrect": false,
-                      "_score": 0
-                  },
-                  {
-                      "text": "True",
-                      "_isCorrect": true,
-                      "_score": 1
-                  }
-              ]
-          },
-          {
-              "text": "An expensive, time-consuming intervention with undesirable side effects may only be clinically significant if it has a large effect.",
-              "_options": [
-                  {
-                      "text": "False",
-                      "_isCorrect": false,
-                      "_score": 0
-                  },
-                  {
-                      "text": "True",
-                      "_isCorrect": true,
-                      "_score": 1
-                  }
-              ]
+            "text": "Statistically",
+            "_isCorrect": true,
+            "_score": 1
           }
-      ],
-      "_feedback": {
-          "title": "Feedback",
-          "altTitle": "Alt feedback title text",
-          "correct": "Excellent, all your choices are correct.",
-          "_incorrect": {
-              "notFinal": "",
-              "final": "At least one of your choices is incorrect. The correct answers are marked with a tick."
+        ]
+      },
+      {
+        "text": "A result is statistically _____________ if p<0.05.",
+        "_options": [
+          {
+            "text": "Clinically",
+            "_isCorrect": false,
+            "_score": 0
           },
-          "_partlyCorrect": {
-              "notFinal": "",
-              "final": "At least one of your choices is incorrect. The correct answers are marked with a tick."
+          {
+            "text": "Statistically",
+            "_isCorrect": true,
+            "_score": 1
           }
+        ]
       },
-      "_comment": "You only need to include _buttons if you want to override the button labels that are set in course.json",
-      "_buttons": {
-          "_submit": {
-              "buttonText": "Submit",
-              "ariaLabel": "Select here to submit your answer."
+      {
+        "text": "A small but consistent effect can be __________ significant.",
+        "_options": [
+          {
+            "text": "Clinically",
+            "_isCorrect": false,
+            "_score": 0
           },
-          "_reset": {
-              "buttonText": "Reset",
-              "ariaLabel": ""
-          },
-          "_showCorrectAnswer": {
-              "buttonText": "Correct Answer",
-              "ariaLabel": ""
-          },
-          "_hideCorrectAnswer": {
-              "buttonText": "My Answer",
-              "ariaLabel": ""
-          },
-          "_showFeedback": {
-              "buttonText": "Show feedback",
-              "ariaLabel": ""
-          },
-          "remainingAttemptsText": "attempts remaining",
-          "remainingAttemptText": "final attempt"
+          {
+            "text": "Statistically",
+            "_isCorrect": true,
+            "_score": 1
+          }
+        ]
       },
-      "_pageLevelProgress": {
-          "_isEnabled": false
+      {
+        "text": "A small but consistent effect may not be __________ significant.",
+        "_options": [
+          {
+            "text": "Clinically",
+            "_isCorrect": true,
+            "_score": 0
+          },
+          {
+            "text": "Statistically",
+            "_isCorrect": false,
+            "_score": 1
+          }
+        ]
+      },
+      {
+        "text": "An effect that is really big for some subjects and really small for others may be __________ significant for some patients.",
+        "_options": [
+          {
+            "text": "Clinically",
+            "_isCorrect": true,
+            "_score": 0
+          },
+          {
+            "text": "Statistically",
+            "_isCorrect": false,
+            "_score": 1
+          }
+        ]
+      },
+      {
+        "text": "Whether a result is __________ significant or not depends on several factors, such as the goals of the patient and the cost of the intervention.",
+        "_options": [
+          {
+            "text": "Clinically",
+            "_isCorrect": true,
+            "_score": 0
+          },
+          {
+            "text": "Statistically",
+            "_isCorrect": false,
+            "_score": 1
+          }
+        ]
+      },
+      {
+        "text": "A low cost, easy to implement intervention may be clinically significant even with a small effect.",
+        "_options": [
+          {
+            "text": "False",
+            "_isCorrect": false,
+            "_score": 0
+          },
+          {
+            "text": "True",
+            "_isCorrect": true,
+            "_score": 1
+          }
+        ]
+      },
+      {
+        "text": "An expensive, time-consuming intervention with undesirable side effects may only be clinically significant if it has a large effect.",
+        "_options": [
+          {
+            "text": "False",
+            "_isCorrect": false,
+            "_score": 0
+          },
+          {
+            "text": "True",
+            "_isCorrect": true,
+            "_score": 1
+          }
+        ]
       }
+    ],
+    "_feedback": {
+      "title": "Feedback",
+      "altTitle": "Alt feedback title text",
+      "correct": "Excellent, all your choices are correct.",
+      "_incorrect": {
+        "notFinal": "",
+        "final": "At least one of your choices is incorrect. The correct answers are marked with a tick."
+      },
+      "_partlyCorrect": {
+        "notFinal": "",
+        "final": "At least one of your choices is incorrect. The correct answers are marked with a tick."
+      }
+    },
+    "_comment": "You only need to include _buttons if you want to override the button labels that are set in course.json",
+    "_buttons": {
+      "_submit": {
+        "buttonText": "Submit",
+        "ariaLabel": "Select here to submit your answer."
+      },
+      "_reset": {
+        "buttonText": "Reset",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "Correct Answer",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "My Answer",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "Show feedback",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "attempts remaining",
+      "remainingAttemptText": "final attempt"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
   },
-  
   {
     "_id": "c-320",
     "_parentId": "b-320",
@@ -780,7 +779,7 @@
     "_classes": "",
     "_layout": "full",
     "_component": "youtube",
-    "title": "Differences Video",
+    "title": "The first video on YouTube",
     "displayTitle": "",
     "body": "",
     "instruction": "",
