@@ -39,7 +39,7 @@
     "body": "Repeatability of measurements (precision) refers to the variation in repeat measurements made on the same subject under identical conditions. To get precise results, you must be able to perform the same procedure multiple times.<p> Ideally, the same researcher conducts the same procedure using the same materials and measuring instruments under the same environmental conditions and does all the trials in a short period of time. </p><p>For example, when measuring ETDRS LogMAR visual acuity a two-line change in this measure would be considered statistically significantly different from baseline, based upon published repeatability measures. Similarly in the case of retinoscopy, a change of 0.50 DS would be considered significantly different. </p><p>Variability in measurements made on the same subject in a repeatability study can then be ascribed only to errors due to the measurement process itself where all other factors are controlled.</p> ",
     "instruction": "",
     "_pageLevelProgress": {
-      "_isEnabled": false,
+      "_isEnabled": true,
       "_isCompletionIndicatorEnabled": false
     }
   },
@@ -72,7 +72,7 @@
     "instruction": "",
     "_pageLevelProgress": {
       "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": true
+      "_isCompletionIndicatorEnabled": false
     }
   },
   {
@@ -128,7 +128,7 @@
     "body": "While examining the relationship between measures from two devices with simple correlation and linear regression is convenient, it does not provide quantitative information on agreement between two measures. This quantitative assessment of the agreement between measurements from two methods/ instruments is often more easily and appropriately done by plotting the difference of each subject's measurements from the two methods against the mean of their measurements. This is called a <b>mean difference plot</b>, commonly referred to in medical statistics as the Bland–Altman plot and is frequently seen in publications of measurement error studies. ",
     "instruction": "",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     }
   },
   {
@@ -166,7 +166,7 @@
     "_layout": "full",
     "title": "Test your knowledge",
     "displayTitle": "",
-    "body": "The solid line indicates the mean of the paired differences; its distance from zero provides an estimate of the systematic bias between the two methods. The dashed lines indicate the estimated limits of agreement (LOA). The LOA give a range within which we expect 95% of differences in measurements between the two methods to lie. To estimate them, we first calculate the mean and SD of the paired differences.\\[Upper\\,LOA=mean\\,difference+1.96\\times SD\\] \\[Lower\\,LOA=mean\\,difference-1.96\\times SD\\]",
+    "body": "The solid line indicates the mean of the paired differences; its distance from zero provides an estimate of the systematic bias between the two methods. The dashed lines indicate the estimated <b>limits of agreement</b> (LOA). The LOA give a range within which we expect 95% of differences in measurements between the two methods to lie. To estimate them, we first calculate the mean and SD of the paired differences.\\[Upper\\,LOA=mean\\,difference+1.96\\times SD\\] \\[Lower\\,LOA=mean\\,difference-1.96\\times SD\\]",
     "instruction": "",
     "_pageLevelProgress": {
       "_isEnabled": false
@@ -184,8 +184,7 @@
     "body": "To determine a particular tests ability to diagnose a certain pathology or to detect a particular sign of the presence of the disease (e.g., reduced visual function), it is pertinent to examine the sensitivity and specificity of a test alongside reported confidence intervals. This can be done by performing the test on a group of individuals with the known pathology for example glaucoma. ",
     "instruction": "",
     "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
+      "_isEnabled": true
     }
   },
   {
@@ -370,7 +369,11 @@
         },
         "_classes": ""
       }
-    ]
+    ],
+    
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
   },
   {
     "_id": "c-226",
@@ -465,7 +468,7 @@
     "_classes": "",
     "_layout": "full",
     "_component": "youtube",
-    "title": "The first video on YouTube",
+    "title": "Satistical vs Clinical Significance Video",
     "displayTitle": "",
     "body": "",
     "instruction": "",
@@ -541,7 +544,7 @@
     "body": "Most journals now endorse the use of the CONSORT statement for reporting of parallel group randomized trials, which emphasizes the need for reporting of the estimated effect size and its precision (such as 95% confidence interval) for each primary and secondary outcome. Readers should bear in mind that interpretation of study results should consider the clinical significance by looking at the actual treatment effect (with confidence intervals) and should not just be based on p-values and statistical significance.",
     "instruction": "",
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     }
   },
   {
@@ -754,7 +757,7 @@
           "remainingAttemptText": "final attempt"
       },
       "_pageLevelProgress": {
-          "_isEnabled": true
+          "_isEnabled": false
       }
   },
   
@@ -777,7 +780,7 @@
     "_classes": "",
     "_layout": "full",
     "_component": "youtube",
-    "title": "The first video on YouTube",
+    "title": "Differences Video",
     "displayTitle": "",
     "body": "",
     "instruction": "",
