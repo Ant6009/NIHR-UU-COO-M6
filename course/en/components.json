@@ -757,7 +757,7 @@
       "remainingAttemptText": "final attempt"
     },
     "_pageLevelProgress": {
-      "_isEnabled": true
+      "_isEnabled": false
     }
   },
   {
@@ -779,7 +779,7 @@
     "_classes": "",
     "_layout": "full",
     "_component": "youtube",
-    "title": "The first video on YouTube",
+    "title": "Differences Video",
     "displayTitle": "",
     "body": "",
     "instruction": "",
