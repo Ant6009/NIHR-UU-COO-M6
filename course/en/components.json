@@ -94,29 +94,29 @@
     "_id": "c-40",
     "_parentId": "b-20",
     "_type": "component",
-        "_component": "graphic",
-        "_classes": "",
-        "_layout": "right",
-        "title": "Agreement between methods",
-        "displayTitle": "",
-        "body": "",
-        "instruction": "",
-        "_graphic": {
-            "alt": "",
-            "longdescription": "",
-            "large": "course/en/images/linearAssociation.jpg",
-            "small": "course/en/images/linearAssociation.jpg",
-            "attribution": "Salim et al. (2009)",
-            "_url": "",
-            "_target": ""
-        },
-        "_isScrollable": false,
-        "_defaultScrollPercent": 0,
-        "_pageLevelProgress": {
-            "_isEnabled": false
-        }
+    "_component": "graphic",
+    "_classes": "",
+    "_layout": "right",
+    "title": "Agreement between methods",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/images/linearAssociation.jpg",
+      "small": "course/en/images/linearAssociation.jpg",
+      "attribution": "Salim et al. (2009)",
+      "_url": "",
+      "_target": ""
     },
-    {
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0,
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
     "_id": "c-101",
     "_parentId": "b-101",
     "_type": "component",
@@ -132,31 +132,31 @@
     }
   },
   {
-        "_id": "c-102",
-        "_parentId": "b-101",
-        "_type": "component",
-        "_component": "graphic",
-        "_classes": "",
-        "_layout": "left",
-        "title": "Mean Difference",
-        "displayTitle": "",
-        "body": "",
-        "instruction": "",
-        "_graphic": {
-            "alt": "",
-            "longdescription": "",
-            "large": "course/en/images/differenceMean.jpg",
-            "small": "course/en/images/differenceMean.jpg",
-            "attribution": "Salim et al. (2009)",
-            "_url": "",
-            "_target": ""
-        },
-        "_isScrollable": false,
-        "_defaultScrollPercent": 0,
-        "_pageLevelProgress": {
-            "_isEnabled": true
-        }
+    "_id": "c-102",
+    "_parentId": "b-101",
+    "_type": "component",
+    "_component": "graphic",
+    "_classes": "",
+    "_layout": "left",
+    "title": "Mean Difference",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/images/differenceMean.jpg",
+      "small": "course/en/images/differenceMean.jpg",
+      "attribution": "Salim et al. (2009)",
+      "_url": "",
+      "_target": ""
     },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0,
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    }
+  },
   {
     "_id": "c-201",
     "_parentId": "b-120",
@@ -236,60 +236,58 @@
       "_isCompletionIndicatorEnabled": false
     }
   },
-  
   {
-        "_id": "c-2283",
-        "_parentId": "b-217",
-        "_type": "component",
-        "_component": "graphic",
-        "_classes": "",
-        "_layout": "",
-        "title": "",
-        "displayTitle": "",
-        "body": "Often the performance of a diagnostic test can be evaluated using receiver operating characteristic (ROC) curves. These are a plot of the test sensitivity between 0 – 1 (where 0 = poor sensitivity and 1 = perfect sensitivity) and 1-specificity (where 0 = optimal specificity and 1 = poor specificity). The area under the ROC curve provides a summary measure of the overall test performance, it being suggested that an ROC >0.8 is required as a minimum for a diagnostic test. ROC curves illustrating (a) high sensitivity & high specificity, and (b) low sensitivity and low specificity may be seen below.",
-        "instruction": "",
-        "_graphic": {
-            "alt": "",
-            "longdescription": "",
-            "large": "course/en/images/HLSS.jpg",
-            "small": "course/en/images/HLSS.jpg",
-            "attribution": "",
-            "_url": "",
-            "_target": ""
-        },
-        "_isScrollable": false,
-        "_defaultScrollPercent": 0,
-        "_pageLevelProgress": {
-            "_isEnabled": false
-        }
+    "_id": "c-2283",
+    "_parentId": "b-217",
+    "_type": "component",
+    "_component": "graphic",
+    "_classes": "",
+    "_layout": "",
+    "title": "",
+    "displayTitle": "",
+    "body": "Often the performance of a diagnostic test can be evaluated using receiver operating characteristic (ROC) curves. These are a plot of the test sensitivity between 0 – 1 (where 0 = poor sensitivity and 1 = perfect sensitivity) and 1-specificity (where 0 = optimal specificity and 1 = poor specificity). The area under the ROC curve provides a summary measure of the overall test performance, it being suggested that an ROC >0.8 is required as a minimum for a diagnostic test. ROC curves illustrating (a) high sensitivity & high specificity, and (b) low sensitivity and low specificity may be seen below.",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/images/HLSS.jpg",
+      "small": "course/en/images/HLSS.jpg",
+      "attribution": "",
+      "_url": "",
+      "_target": ""
     },
-    
-    {
-        "_id": "c-2284",
-        "_parentId": "b-218",
-        "_type": "component",
-        "_component": "graphic",
-        "_classes": "",
-        "_layout": "",
-        "title": "",
-        "displayTitle": "",
-        "body": "Below  is an example of an ROC curve using intraocular pressure (IOP) cut-offs to screen for glaucoma.",
-        "instruction": "",
-        "_graphic": {
-            "alt": "",
-            "longdescription": "",
-            "large": "course/en/images/ROC-Glaucoma.jpg",
-            "small": "course/en/images/ROC-Glaucoma.jpg",
-            "attribution": "",
-            "_url": "https://www.aao.org/education/bcscsnippetdetail.aspx?id=41b7c50b-46a2-4346-a41d-62cacf474bbf",
-            "_target": ""
-        },
-        "_isScrollable": false,
-        "_defaultScrollPercent": 0,
-        "_pageLevelProgress": {
-            "_isEnabled": false
-        }
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0,
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_id": "c-2284",
+    "_parentId": "b-218",
+    "_type": "component",
+    "_component": "graphic",
+    "_classes": "",
+    "_layout": "",
+    "title": "",
+    "displayTitle": "",
+    "body": "Below  is an example of an ROC curve using intraocular pressure (IOP) cut-offs to screen for glaucoma.",
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/images/ROC-Glaucoma.jpg",
+      "small": "course/en/images/ROC-Glaucoma.jpg",
+      "attribution": "",
+      "_url": "https://www.aao.org/education/bcscsnippetdetail.aspx?id=41b7c50b-46a2-4346-a41d-62cacf474bbf",
+      "_target": ""
     },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0,
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
   {
     "_id": "c-230",
     "_parentId": "b-220",
@@ -405,7 +403,7 @@
     }
   },
   {
-  "_id": "c-233",
+    "_id": "c-233",
     "_parentId": "b-231",
     "_type": "component",
     "_component": "text",
@@ -432,7 +430,7 @@
     "instruction": "Click open the link to the paper.",
     "_graphic": {
       "alt": "",
-      "longdescription":  "",
+      "longdescription": "",
       "large": "course/en/images/pValueMisc.png",
       "small": "course/en/images/pValueMisc.png",
       "attribution": "",
@@ -446,8 +444,8 @@
     }
   },
   {
-  "_id": "c-234",
-    "_parentId": "b-231",
+    "_id": "c-234",
+    "_parentId": "b-232",
     "_type": "component",
     "_component": "text",
     "_classes": "info-icon",
@@ -462,7 +460,7 @@
   },
   {
     "_id": "c-235",
-    "_parentId": "b-231",
+    "_parentId": "b-233",
     "_type": "component",
     "_classes": "",
     "_layout": "full",
@@ -473,31 +471,46 @@
     "instruction": "",
     "_setCompletionOn": "play",
     "_media": {
-        "_source": "//www.youtube.com/embed/vB-9QVbKNTY",
-        "_controls": true,
-        "_allowFullscreen": true,
-        "_playsinline": false,
-        "_aspectRatio": 1.77,
-        "_autoplay": false,
-        "_showRelated": false,
-        "_loop": false,
-        "_modestBranding": true,
-        "_playbackQuality": "hd720",
-        "_showAnnotations": false,
-        "_progressColor": "red"
+      "_source": "//www.youtube.com/embed/vB-9QVbKNTY",
+      "_controls": true,
+      "_allowFullscreen": true,
+      "_playsinline": false,
+      "_aspectRatio": 1.77,
+      "_autoplay": false,
+      "_showRelated": false,
+      "_loop": false,
+      "_modestBranding": true,
+      "_playbackQuality": "hd720",
+      "_showAnnotations": false,
+      "_progressColor": "red"
     },
     "_transcript": {
-        "_setCompletionOnView": true,
-        "_inlineTranscript": true,
-        "_externalTranscript": false,
-        "inlineTranscriptButton": "Transcript",
-        "inlineTranscriptCloseButton": "Close Transcript",
-        "inlineTranscriptBody": "<p>Statistical significance is not the same as clinical significance. Bad data at home can mislead, which is why it's important to look at the outcomes of cardiovascular trials. Researchers should drop preconceived notions and instead focus on the testicular test. My upbringing in clinical trial results can differ in terms of the range of possible results, as defined by confidence intervals, which should be considered when making clinical recommendations.</p><p>Investigators often use data from cohort studies that have found each variable to be significantly important. For example, a medication may significantly improve a patient's health, or computer algorithms may identify new surgical techniques that are significantly better than the current treatment being used. The answer to this question is not as straightforward as one might think; a single figure in the calculations can make the results more meaningful, but what happens next is more effective treatment that is considered vital to showing significant results.</p><p>Researchers should not shy away from these discoveries, as statistical significance does not necessarily suggest that the researchers have found clinical relevance. Directing this critical analysis toward thousands of potential clinical studies, a team of Canadian researchers focused on cardiovascular trials. They examined study design, p-values, and the primary outcomes. They found that almost three-quarters of trials reported statistically significant results.</p><p>According to the new study, however, sixty percent of these cases had high potential for actual clinical implications, despite statistical analyses finding them to be insignificant. Just because a medical treatment has not reached statistical significance doesn't rule out the possibility that it may be beneficial or harmful. We must look beyond p-values.</p><p>Researchers run the risk of missing potentially useful results that affect research teams. The research team suggests adopting a broader view in which all potential meaningful effects are considered before making clinical recommendations.</p>",
-        "transcriptLinkButton": "Transcript",
-        "transcriptLink": "assets/transcript.pdf"
+      "_setCompletionOnView": true,
+      "_inlineTranscript": true,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "Transcript",
+      "inlineTranscriptCloseButton": "Close Transcript",
+      "inlineTranscriptBody": "<p>Statistical significance is not the same as clinical significance. Bad data at home can mislead, which is why it's important to look at the outcomes of cardiovascular trials. Researchers should drop preconceived notions and instead focus on the testicular test. My upbringing in clinical trial results can differ in terms of the range of possible results, as defined by confidence intervals, which should be considered when making clinical recommendations.</p><p>Investigators often use data from cohort studies that have found each variable to be significantly important. For example, a medication may significantly improve a patient's health, or computer algorithms may identify new surgical techniques that are significantly better than the current treatment being used. The answer to this question is not as straightforward as one might think; a single figure in the calculations can make the results more meaningful, but what happens next is more effective treatment that is considered vital to showing significant results.</p><p>Researchers should not shy away from these discoveries, as statistical significance does not necessarily suggest that the researchers have found clinical relevance. Directing this critical analysis toward thousands of potential clinical studies, a team of Canadian researchers focused on cardiovascular trials. They examined study design, p-values, and the primary outcomes. They found that almost three-quarters of trials reported statistically significant results.</p><p>According to the new study, however, sixty percent of these cases had high potential for actual clinical implications, despite statistical analyses finding them to be insignificant. Just because a medical treatment has not reached statistical significance doesn't rule out the possibility that it may be beneficial or harmful. We must look beyond p-values.</p><p>Researchers run the risk of missing potentially useful results that affect research teams. The research team suggests adopting a broader view in which all potential meaningful effects are considered before making clinical recommendations.</p>",
+      "transcriptLinkButton": "Transcript",
+      "transcriptLink": "assets/transcript.pdf"
     },
     "_pageLevelProgress": {
-        "_isEnabled": true
+      "_isEnabled": true
+    }
+  },
+  {
+    "_id": "c-236",
+    "_parentId": "b-234",
+    "_type": "component",
+    "_component": "text",
+    "_classes": "info-icon",
+    "_layout": "full",
+    "title": "",
+    "displayTitle": "",
+    "body": "Often, it is the judgment of the clinician (and the patient) which decides whether a result is clinically significant or not. ",
+    "instruction": "",
+    "_pageLevelProgress": {
+      "_isEnabled": false
     }
   },
   {
@@ -505,11 +518,11 @@
     "_parentId": "b-300",
     "_type": "component",
     "_component": "text",
-    "_classes": "",
+    "_classes": "cog-icon",
     "_layout": "",
-    "title": "Correlation and Linear Regression",
-    "displayTitle": "Correlation and Linear Regression",
-    "body": "Pearson’s Correlation Coefficient (r) measures the strength of linear association between two continuous variables. The values range from -1 to 1. Zero indicates no association between variables, with a value closer to 1 or –1 indicating a stronger relationship. A positive value indicates a positive association, as the value of one variable increase so does the value of the other variable. A negative value indicates a negative association, as the value of one variable increases the value of the other decreases.",
+    "title": "",
+    "displayTitle": "",
+    "body": "<p>In Module 5 we presented statistics for a case-control study on adult patients with seasonal conjunctivitis with the patients organised into an intervention group with allergy lid wipes and a control group with no treatment.</p><p>The results indicated a statistically significant improvement in both corrected LogMAR VA and scores on allergy symptoms test two weeks after the intervention. This could be attributed to the allergy wipe use as the results were significantly better in the intervention group compared to the control group.</p><p>However, could there be any limitations to these results? Could any other factors have affected the results?</p><ul><li>Placebo effect could have meant the intervention group reported better allergy symptom scores at visit 2.</li><li>The researchers were not masked to the intervention or control group which could have led to performance bias as mentioned in Module 3.</li><li>Over the 2 weeks, the pollen count could have reduced naturally, hence reducing the seasonal conjunctivitis rates independent of intervention.</li></ul><p>These limitations and potentially others would need to be discussed before assuming the clinical significance of these allergy wipes in practice.</p>",
     "instruction": "",
     "_pageLevelProgress": {
       "_isEnabled": false,
@@ -520,111 +533,15 @@
     "_id": "c-305",
     "_parentId": "b-305",
     "_type": "component",
-    "_component": "matchingGraphic",
+    "_component": "text",
     "_classes": "",
     "_layout": "full",
     "title": "",
     "displayTitle": "",
-    "body": "Select the r value that matches the correlation between the variables.",
+    "body": "Most journals now endorse the use of the CONSORT statement for reporting of parallel group randomized trials, which emphasizes the need for reporting of the estimated effect size and its precision (such as 95% confidence interval) for each primary and secondary outcome. Readers should bear in mind that interpretation of study results should consider the clinical significance by looking at the actual treatment effect (with confidence intervals) and should not just be based on p-values and statistical significance.",
     "instruction": "",
-    "_attempts": 1,
-    "_shouldDisplayAttempts": false,
-    "_shouldResetAllAnswers": false,
-    "_isRandom": false,
-    "_isItemsRandom": true,
-    "_questionWeight": 1,
-    "_canShowModelAnswer": true,
-    "_canShowFeedback": true,
-    "_canShowMarking": true,
-    "_recordInteraction": true,
-    "placeholder": "Please select an option",
-    "_allowOnlyUniqueAnswers": false,
-    "_hasItemScoring": false,
-    "_columns": {
-      "small": 0,
-      "medium": 2,
-      "large": 3,
-      "xlarge": 4
-    },
-    "_items": [
-      {
-        "text": "Positive Correlation",
-        "_graphic": {
-          "src": "course/en/images/positiveC.png",
-          "alt": ""
-        },
-        "_options": [
-          {
-            "text": "r=-0.76",
-            "_isCorrect": false
-          },
-          {
-            "text": "r=0.89",
-            "_isCorrect": true
-          },
-          {
-            "text": "r=0.05",
-            "_isCorrect": false
-          }
-        ]
-      },
-      {
-        "text": "Negative Correlation",
-        "_graphic": {
-          "src": "course/en/images/negativeC.png",
-          "alt": ""
-        },
-        "_options": [
-          {
-            "text": "r=-0.76",
-            "_isCorrect": true
-          },
-          {
-            "text": "r=0.89",
-            "_isCorrect": false
-          },
-          {
-            "text": "r=0.05",
-            "_isCorrect": false
-          }
-        ]
-      },
-      {
-        "text": "No Correlation",
-        "_graphic": {
-          "src": "course/en/images/noC.png",
-          "alt": ""
-        },
-        "_options": [
-          {
-            "text": "r=-0.76",
-            "_isCorrect": false
-          },
-          {
-            "text": "r=0.89",
-            "_isCorrect": false
-          },
-          {
-            "text": "r=0.05",
-            "_isCorrect": true
-          }
-        ]
-      }
-    ],
-    "_feedback": {
-      "title": "Feedback",
-      "correct": "Excellent, you have selected the correct r values.",
-      "_incorrect": {
-        "notFinal": "",
-        "final": "At least one of your choice was not correct."
-      },
-      "_partlyCorrect": {
-        "notFinal": "",
-        "final": "This feedback will appear if you answered part of the question correctly."
-      }
-    },
     "_pageLevelProgress": {
-      "_isEnabled": false
+      "_isEnabled": true
     }
   },
   {
@@ -633,50 +550,214 @@
     "_type": "component",
     "_component": "text",
     "_classes": "",
-    "_layout": "left",
+    "_layout": "full",
     "title": "",
     "displayTitle": "",
-    "body": "Linear regression analysis allows for a more formal description of the association between two variables. If we know what are the independent (x-axis) and dependent (y-axis) variables together with their units, we can estimate the value of the dependent variable as a function of the independent variable using the equation y = a + bx (where a = intercept and b = slope/regression coefficient).  The regression coefficient can also be known as effect size, parameter estimate or Beta coefficient. ",
+    "body": "LeFort (1993) suggests that the clinical significance should reflect “the extent of change, whether the change makes a real difference to subject lives, how long the effects last, consumer acceptability, cost-effectiveness, and ease of implementation”. ",
     "instruction": ""
   },
   {
     "_id": "c-307",
     "_parentId": "b-307",
     "_type": "component",
-    "_component": "graphic",
+    "_component": "text",
     "_classes": "",
-    "_layout": "right",
+    "_layout": "full",
     "title": "",
     "displayTitle": "",
-    "body": "",
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "longdescription": "",
-      "large": "course/en/images/regressionPlot.png",
-      "small": "course/en/images/regressionPlot.png",
-      "attribution": "",
-      "_url": "",
-      "_target": ""
-    },
-    "_isScrollable": false,
-    "_defaultScrollPercent": 0,
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    }
+    "body": "Social validation is a technique of evaluating clinical significance and involves asking those in the best position to judge; <p>This approached is based on the premise that for change to be clinically significant it must make an obvious, quantitative improvement to their everyday functioning and sense of well-being.</p> ",
+    "instruction": ""
   },
   {
     "_id": "c-310",
     "_parentId": "b-310",
     "_type": "component",
-    "_component": "text",
-    "_classes": "cog-icon",
-    "_layout": "full",
-    "title": "Optometry Example",
-    "displayTitle": "",
-    "body": "There is a strong statistically significant positive linear relationship between central corneal thickness and IOP values, r=0.44, p<0.05. <p>Therefore, we expect higher IOPs in those with thicker corneas (>565 µm) and if a IOP reading is borderline with a thick cornea it could be considered normal. </p>",
-    "instruction": ""
+      "_component": "matching",
+      "_classes": "",
+      "_layout": "full",
+      "title": "Matching",
+      "displayTitle": "",
+      "body": "Fill in the blank with the correct option.",
+      "instruction": "Choose an option from each dropdown list and select Submit.",
+      "ariaQuestion": "Question text specifically for screen readers.",
+      "_attempts": 1,
+      "_shouldDisplayAttempts": false,
+      "_shouldResetAllAnswers": false,
+      "_isRandom": false,
+      "_isRandomQuestionOrder": true,
+      "_questionWeight": 1,
+      "_canShowModelAnswer": true,
+      "_canShowFeedback": true,
+      "_canShowMarking": true,
+      "_recordInteraction": true,
+      "placeholder": "Please select an option",
+      "_allowOnlyUniqueAnswers": false,
+      "_hasItemScoring": false,
+      "_items": [
+          {
+              "text": "An effect that is really big for some subjects and really small for others may not be ___________ significant.",
+              "_options": [
+                  {
+                      "text": "Clinically",
+                      "_isCorrect": false,
+                      "_score": 0
+                  },
+                  {
+                      "text": "Statistically",
+                      "_isCorrect": true,
+                      "_score": 1
+                  }
+              ]
+          },
+          {
+              "text": "A result is statistically _____________ if p<0.05.",
+              "_options": [
+                  {
+                      "text": "Clinically",
+                      "_isCorrect": false,
+                      "_score": 0
+                  },
+                  {
+                      "text": "Statistically",
+                      "_isCorrect": true,
+                      "_score": 1
+                  }
+              ]
+          },
+          {
+              "text": "A small but consistent effect can be __________ significant.",
+              "_options": [
+                  {
+                      "text": "Clinically",
+                      "_isCorrect": false,
+                      "_score": 0
+                  },
+                  {
+                      "text": "Statistically",
+                      "_isCorrect": true,
+                      "_score": 1
+                  }
+              ]
+          },
+          {
+              "text": "A small but consistent effect may not be __________ significant.",
+              "_options": [
+                  {
+                      "text": "Clinically",
+                      "_isCorrect": true,
+                      "_score": 0
+                  },
+                  {
+                      "text": "Statistically",
+                      "_isCorrect": false,
+                      "_score": 1
+                  }
+              ]
+          },
+          {
+              "text": "An effect that is really big for some subjects and really small for others may be __________ significant for some patients.",
+              "_options": [
+                  {
+                      "text": "Clinically",
+                      "_isCorrect": true,
+                      "_score": 0
+                  },
+                  {
+                      "text": "Statistically",
+                      "_isCorrect": false,
+                      "_score": 1
+                  }
+              ]
+          },
+          {
+              "text": "Whether a result is __________ significant or not depends on several factors, such as the goals of the patient and the cost of the intervention.",
+              "_options": [
+                  {
+                      "text": "Clinically",
+                      "_isCorrect": true,
+                      "_score": 0
+                  },
+                  {
+                      "text": "Statistically",
+                      "_isCorrect": false,
+                      "_score": 1
+                  }
+              ]
+          },
+          {
+              "text": "A low cost, easy to implement intervention may be clinically significant even with a small effect.",
+              "_options": [
+                  {
+                      "text": "False",
+                      "_isCorrect": false,
+                      "_score": 0
+                  },
+                  {
+                      "text": "True",
+                      "_isCorrect": true,
+                      "_score": 1
+                  }
+              ]
+          },
+          {
+              "text": "An expensive, time-consuming intervention with undesirable side effects may only be clinically significant if it has a large effect.",
+              "_options": [
+                  {
+                      "text": "False",
+                      "_isCorrect": false,
+                      "_score": 0
+                  },
+                  {
+                      "text": "True",
+                      "_isCorrect": true,
+                      "_score": 1
+                  }
+              ]
+          }
+      ],
+      "_feedback": {
+          "title": "Feedback",
+          "altTitle": "Alt feedback title text",
+          "correct": "Excellent, all your choices are correct.",
+          "_incorrect": {
+              "notFinal": "",
+              "final": "At least one of your choices is incorrect. The correct answers are marked with a tick."
+          },
+          "_partlyCorrect": {
+              "notFinal": "",
+              "final": "At least one of your choices is incorrect. The correct answers are marked with a tick."
+          }
+      },
+      "_comment": "You only need to include _buttons if you want to override the button labels that are set in course.json",
+      "_buttons": {
+          "_submit": {
+              "buttonText": "Submit",
+              "ariaLabel": "Select here to submit your answer."
+          },
+          "_reset": {
+              "buttonText": "Reset",
+              "ariaLabel": ""
+          },
+          "_showCorrectAnswer": {
+              "buttonText": "Correct Answer",
+              "ariaLabel": ""
+          },
+          "_hideCorrectAnswer": {
+              "buttonText": "My Answer",
+              "ariaLabel": ""
+          },
+          "_showFeedback": {
+              "buttonText": "Show feedback",
+              "ariaLabel": ""
+          },
+          "remainingAttemptsText": "attempts remaining",
+          "remainingAttemptText": "final attempt"
+      },
+      "_pageLevelProgress": {
+          "_isEnabled": true
+      }
   },
+  
   {
     "_id": "c-320",
     "_parentId": "b-320",
@@ -686,450 +767,47 @@
     "_layout": "full",
     "title": "Optometry Example",
     "displayTitle": "",
-    "body": "Regression models allow adjustment for other cofounders that might explain any associations we see e.g., multivariable analysis. The unadjusted and adjusted results are both presented. Linear regression can be used to explore associations when the outcome is continuous. Logistic regression can be used to exposure associations when the outcome of interest is binary. Exposure variables can be any type of data for either regression type.",
+    "body": "While we are advocating caution with interpreting whether statistically significant results are clinically significant, it is also important to remember that <u>absence of proof of effect does not prove absence of effect</u>. Watch the video below explaining how statistical significance can be misinterpreted. ",
     "instruction": ""
   },
   {
     "_id": "c-321",
     "_parentId": "b-323",
     "_type": "component",
-    "_component": "text",
-    "_classes": "cog-icon",
-    "_layout": "full",
-    "title": "Optometry Example",
-    "displayTitle": "",
-    "body": "There is a strong statistically significant positive linear relationship between a child’s height and their axial length after controlling for age and ethnicity, F=0.536, p=0.032.<p>There are 3.25 times greater odds of having AMD in those people who are older, have a family history of AMD and smoke.</p>",
-    "instruction": ""
-  },
-  {
-    "_id": "c-325",
-    "_parentId": "b-325",
-    "_type": "component",
-    "_component": "text",
-    "_classes": "",
-    "_layout": "left",
-    "title": "Risks and odds",
-    "displayTitle": "Risks and odds",
-    "body": "",
-    "instruction": ""
-  },
-  {
-    "_id": "c-330",
-    "_parentId": "b-325",
-    "_type": "component",
-    "_component": "text",
     "_classes": "",
     "_layout": "full",
-    "title": "Risks and odds",
-    "displayTitle": "",
-    "body": "Risk is the probability that an event will occur. Risk = number of new cases with outcome/number initially without outcome. <p>Risk ratio (RR)= risk of outcome in exposed/ risk of outcome in unexposed.</p><p>Risk ratio is a relative measure of the strength of association between exposure and outcome e.g., smokers are 2 times more likely to develop age-related macular degeneration (AMD).",
-    "instruction": ""
-  },
-  {
-    "_id": "c-340",
-    "_parentId": "b-325",
-    "_type": "component",
-    "_component": "cards",
-    "_classes": "",
-    "_layout": "full",
-    "title": "Cards",
+    "_component": "youtube",
+    "title": "The first video on YouTube",
     "displayTitle": "",
     "body": "",
-    "instruction": "Click the cards to see more information.",
-    "_hasClickButton": false,
-    "_setCompletionOn": "allItems",
-    "_animateItems": true,
-    "_percentInviewVertical": 10,
-    "_transitionSpeed": 200,
-    "_columns": {
-      "small": 0,
-      "medium": 3,
-      "large": 3,
-      "xlarge": 3
-    },
-    "_itemMinHeight": 0,
-    "_autoSetHeight": false,
-    "_scrollPadding": 0,
-    "_items": [
-      {
-        "title": "",
-        "body": "",
-        "_graphic": {
-          "src": "course/en/images/RRl.png",
-          "alt": "RR is less than 1"
-        },
-        "_hasAction": true,
-        "_buttons": {
-          "_open": {
-            "buttonText": "Open",
-            "ariaLabel": "Select here to show more."
-          },
-          "_close": {
-            "buttonText": "Close",
-            "ariaLabel": "Select here to close."
-          }
-        },
-        "description": {
-          "title": "RR<1",
-          "body": "<p>Suggests exposure is associated with decrease in outcome, e.g., RR 0.47, 0.47 times more likely to experience outcome or 53% decrease in risk.</p>",
-          "_graphic": {
-            "src": "",
-            "alt": ""
-          }
-        },
-        "_classes": ""
-      },
-      {
-        "title": "",
-        "body": "",
-        "_graphic": {
-          "src": "course/en/images/RRm.png",
-          "alt": "RR is equal to 1"
-        },
-        "_hasAction": true,
-        "_buttons": {
-          "_open": {
-            "buttonText": "Open",
-            "ariaLabel": "Select here to show more."
-          },
-          "_close": {
-            "buttonText": "Close",
-            "ariaLabel": "Select here to close."
-          }
-        },
-        "description": {
-          "title": "RR=1",
-          "body": "<p>The risks are identical in exposed and unexposed groups. There is no association.</p>",
-          "_graphic": {
-            "src": "",
-            "alt": ""
-          }
-        },
-        "_classes": ""
-      },
-      {
-        "title": "",
-        "body": "",
-        "_graphic": {
-          "src": "course/en/images/RRr.png",
-          "alt": "RR is greater than 1"
-        },
-        "_hasAction": true,
-        "_buttons": {
-          "_open": {
-            "buttonText": "Open",
-            "ariaLabel": "Select here to show more."
-          },
-          "_close": {
-            "buttonText": "Close",
-            "ariaLabel": "Select here to close."
-          }
-        },
-        "description": {
-          "title": "RR>1",
-          "body": "<p>Suggests exposure is associated with an increase in outcome e.g., RR of 1.8, 1.8 times more likely to experience outcome or 80% increase in risk.</p>",
-          "_graphic": {
-            "src": "",
-            "alt": ""
-          }
-        },
-        "_classes": ""
-      }
-    ]
-  },
-  {
-    "_id": "c-335",
-    "_parentId": "b-325",
-    "_type": "component",
-    "_component": "slider",
-    "_classes": "",
-    "_layout": "full",
-    "title": "Slider",
-    "displayTitle": "",
-    "body": "Position the slider to the position corresponding to a Risk Ratio of 1.9",
     "instruction": "",
-    "ariaQuestion": "On a sliding scale from 100% decrease in risk to 100% increase in risk, what would be the percentage corresponding to a Risk Ratio of 1.9?",
-    "_attempts": 1,
-    "_shouldDisplayAttempts": false,
-    "_questionWeight": 1,
-    "_canShowModelAnswer": true,
-    "_canShowFeedback": true,
-    "_canShowMarking": true,
-    "_recordInteraction": true,
-    "labelStart": "100% decrease in risk",
-    "labelEnd": "100% increase in risk",
-    "_scaleStart": -100,
-    "_scaleEnd": 100,
-    "_scaleStep": 10,
-    "scaleStepPrefix": "",
-    "scaleStepSuffix": "",
-    "_correctAnswer": "",
-    "_correctRange": {
-      "_bottom": 8,
-      "_top": 10
+    "_setCompletionOn": "play",
+    "_media": {
+      "_source": "//www.youtube.com/embed/oi28kkm9qR4",
+      "_controls": true,
+      "_allowFullscreen": true,
+      "_playsinline": false,
+      "_aspectRatio": 1.77,
+      "_autoplay": false,
+      "_showRelated": false,
+      "_loop": false,
+      "_modestBranding": true,
+      "_playbackQuality": "hd720",
+      "_showAnnotations": false,
+      "_progressColor": "red"
     },
-    "_showNumber": false,
-    "_showScaleIndicator": false,
-    "_showScale": true,
-    "_showScaleNumbers": true,
-    "_feedback": {
-      "title": "Feedback",
-      "altTitle": "Alt feedback title text",
-      "correct": "This feedback will appear if you answered the question correctly.",
-      "_incorrect": {
-        "notFinal": "",
-        "final": "This feedback will appear if you answered the question incorrectly."
-      }
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": true,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "Transcript",
+      "inlineTranscriptCloseButton": "Close Transcript",
+      "inlineTranscriptBody": "<p>Hey, hey, welcome to Sketchy EVM! I'm your host, Anthony Croco, and today we're talking about 'no significant difference.' This is something that even the most EBM savvy people sometimes make mistakes with, so I think it's worth spending a few minutes talking about it. You may have had this happen before, where you're reading a research paper and in the conclusions, you read 'no significant difference.' It may occur to you to wonder, does this mean that they are the same?</p><p>Well, the pediatrician in me wants to explain this in a simple way using colored circles, so please bear with me. In the first box, we have two circles, a green one and a red one, and they are distinctly occupying different spaces. In the third box, we have a green circle and a red circle occupying the exact same space. And in the middle box, the green circle and red circle occupy some of the same space. It's easy to see that the two circles in the first box are different, and the two circles in the third box are the same. However, the two circles in the middle box aren't really 100% different, and they're not really 100% the same either. Let's use this to understand articles.</p><p>One of the most common types of research questions that we'll see in research papers asks the question: Is A better than B? So, what the authors are in fact trying to prove is that two things are different, one being better than the other. If the authors fail to do this, then we have to accept the null hypothesis, which is, in fact, that they are unable to show that A is significantly better than B. But they haven't, in this case, proven that they are the same.</p><p>One of the other common types of research papers that we'll come across asks the question: Is A equal to B, or are they the same? In this case, the authors are trying to show that these two things are equal. If they fail to do this, the null hypothesis then is that these two things are not significantly the same, but they haven't actually proven that they're significantly different.</p><p>So what I'd like to do now is go through a real-world example of a paper that I've heard misquoted a number of times. This is a paper by Zeng, and it's a Cochrane systematic review examining the question: Do infants with bronchiolitis benefit from nebulized hypertonic saline? I can tell you, there's about six months of the year where the majority of my patients present with bronchiolitis, so the burden of disease is significant here, and the question is a good one. Does hypertonic saline nebulized offer more benefit than normal saline nebulized to these patients? And the outcome measure we're looking at for this example is hospitalization.</p><p>I've redrawn the forest plot for you here, and you can see that the diamond summarizes the data, with the highest point of the diamond in the middle being our point estimate, which is 0.63, in favor of hypertonic saline showing more effect. The confidence intervals extend from 0.37 to 1.07, sadly crossing the line of no significance, which in this case is 1. This means that the results are not significant, and the authors have correctly concluded that no significant short-term effects were found.</p><p>The question you may ask yourself then is, does this result mean that hypertonic saline doesn't work? In fact, this is not what the results are saying at all. What the authors are able to show is that the bulk of the data shows that there is an effect, but unfortunately, the confidence interval crosses the line of no significance. At best, we can use an EBM naughty word, 'trend,' to say that there is a trend for effect, but we don't like to use this word. The best we can say is that there's no significant effect.</p><p>One of the author's final conclusions is that more trials are needed, and I would agree. So at the end of the day, my take-home message for you is this: The absence of proof of effect does not prove absence of effect. Well, I hope you've enjoyed this episode of Sketchy EBM. Please do take the time to evaluate, and until next time, remember to always draw your own conclusions.</p>",
+      "transcriptLinkButton": "Transcript",
+      "transcriptLink": "assets/transcript.pdf"
     },
-    "_comment": "You only need to include _buttons if you want to override the button labels that are set in course.json",
-    "_buttons": {
-      "_submit": {
-        "buttonText": "Submit",
-        "ariaLabel": "Select here to submit your answer."
-      },
-      "_reset": {
-        "buttonText": "Reset",
-        "ariaLabel": ""
-      },
-      "_showCorrectAnswer": {
-        "buttonText": "Correct Answer",
-        "ariaLabel": ""
-      },
-      "_hideCorrectAnswer": {
-        "buttonText": "My Answer",
-        "ariaLabel": ""
-      },
-      "_showFeedback": {
-        "buttonText": "Show feedback",
-        "ariaLabel": ""
-      },
-      "remainingAttemptsText": "attempts remaining",
-      "remainingAttemptText": "final attempt"
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    }
-  },
-  {
-    "_id": "c-345",
-    "_parentId": "b-325",
-    "_type": "component",
-    "_component": "slider",
-    "_classes": "",
-    "_layout": "full",
-    "title": "Slider",
-    "displayTitle": "",
-    "body": "Position the slider to the position corresponding to a Risk Ratio of 1.25",
-    "instruction": "",
-    "ariaQuestion": "On a sliding scale from 100% decrease in risk to 100% increase in risk, what would be the percentage corresponding to a Risk Ratio of 1.25?",
-    "_attempts": 1,
-    "_shouldDisplayAttempts": false,
-    "_questionWeight": 1,
-    "_canShowModelAnswer": true,
-    "_canShowFeedback": true,
-    "_canShowMarking": true,
-    "_recordInteraction": true,
-    "labelStart": "100% decrease in risk",
-    "labelEnd": "100% increase in risk",
-    "_scaleStart": -100,
-    "_scaleEnd": 100,
-    "_scaleStep": 10,
-    "scaleStepPrefix": "",
-    "scaleStepSuffix": "",
-    "_correctAnswer": "",
-    "_correctRange": {
-      "_bottom": 20,
-      "_top": 30
-    },
-    "_showNumber": false,
-    "_showScaleIndicator": false,
-    "_showScale": true,
-    "_showScaleNumbers": true,
-    "_feedback": {
-      "title": "Feedback",
-      "altTitle": "Alt feedback title text",
-      "correct": "Well done. The increase in risk corresponding to a Risk Ratio of 1.25 is 25%.",
-      "_incorrect": {
-        "notFinal": "",
-        "final": "You didn't quite get the right answer. The increase in risk corresponding to a Risk Ratio of 1.25 is 25%."
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    }
-  },
-  {
-    "_id": "c-350",
-    "_parentId": "b-325",
-    "_type": "component",
-    "_component": "slider",
-    "_classes": "",
-    "_layout": "full",
-    "title": "Slider",
-    "displayTitle": "",
-    "body": "Position the slider to the position corresponding to a Risk Ratio of 0.45",
-    "instruction": "",
-    "ariaQuestion": "On a sliding scale from 100% decrease in risk to 100% increase in risk, what would be the percentage corresponding to a Risk Ratio of 0.45?",
-    "_attempts": 1,
-    "_shouldDisplayAttempts": false,
-    "_questionWeight": 1,
-    "_canShowModelAnswer": true,
-    "_canShowFeedback": true,
-    "_canShowMarking": true,
-    "_recordInteraction": true,
-    "labelStart": "100% decrease in risk",
-    "labelEnd": "100% increase in risk",
-    "_scaleStart": -100,
-    "_scaleEnd": 100,
-    "_scaleStep": 10,
-    "scaleStepPrefix": "",
-    "scaleStepSuffix": "",
-    "_correctAnswer": "",
-    "_correctRange": {
-      "_bottom": -60,
-      "_top": -50
-    },
-    "_showNumber": false,
-    "_showScaleIndicator": false,
-    "_showScale": true,
-    "_showScaleNumbers": true,
-    "_feedback": {
-      "title": "Feedback",
-      "altTitle": "Alt feedback title text",
-      "correct": "Well done. A Risk Ratio of 0.45 corresponds to a decrease in risk of 55%.",
-      "_incorrect": {
-        "notFinal": "",
-        "final": "You didn't quite get the right answer. The decrease in risk corresponding to a Risk Ratio of 0.45 is 55%."
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    }
-  },
-  {
-    "_id": "c-355",
-    "_parentId": "b-325",
-    "_type": "component",
-    "_component": "slider",
-    "_classes": "",
-    "_layout": "full",
-    "title": "Slider",
-    "displayTitle": "",
-    "body": "Position the slider to the position corresponding to a Risk Ratio of 1.00",
-    "instruction": "",
-    "ariaQuestion": "On a sliding scale from 100% decrease in risk to 100% increase in risk, what would be the percentage corresponding to a Risk Ratio of 1.00?",
-    "_attempts": 1,
-    "_shouldDisplayAttempts": false,
-    "_questionWeight": 1,
-    "_canShowModelAnswer": true,
-    "_canShowFeedback": true,
-    "_canShowMarking": true,
-    "_recordInteraction": true,
-    "labelStart": "100% decrease in risk",
-    "labelEnd": "100% increase in risk",
-    "_scaleStart": -100,
-    "_scaleEnd": 100,
-    "_scaleStep": 10,
-    "scaleStepPrefix": "",
-    "scaleStepSuffix": "",
-    "_correctAnswer": "",
-    "_correctRange": {
-      "_bottom": 0,
-      "_top": 0
-    },
-    "_showNumber": false,
-    "_showScaleIndicator": false,
-    "_showScale": true,
-    "_showScaleNumbers": true,
-    "_feedback": {
-      "title": "Feedback",
-      "altTitle": "Alt feedback title text",
-      "correct": "Well done. A Risk Ratio of 1.00 corresponds to a decrease or increase in risk of 0% (no association).",
-      "_incorrect": {
-        "notFinal": "",
-        "final": "You didn't quite get the right answer. For a Risk Ratio of 1.00, there is no decrease or increase in risk (no association)."
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    }
-  },
-  {
-    "_id": "c-360",
-    "_parentId": "b-325",
-    "_type": "component",
-    "_component": "slider",
-    "_classes": "",
-    "_layout": "full",
-    "title": "Slider",
-    "displayTitle": "",
-    "body": "Position the slider to the position corresponding to a Risk Ratio of 0.35",
-    "instruction": "",
-    "ariaQuestion": "On a sliding scale from 100% decrease in risk to 100% increase in risk, what would be the percentage corresponding to a Risk Ratio of 0.35?",
-    "_attempts": 1,
-    "_shouldDisplayAttempts": false,
-    "_questionWeight": 1,
-    "_canShowModelAnswer": true,
-    "_canShowFeedback": true,
-    "_canShowMarking": true,
-    "_recordInteraction": true,
-    "labelStart": "100% decrease in risk",
-    "labelEnd": "100% increase in risk",
-    "_scaleStart": -100,
-    "_scaleEnd": 100,
-    "_scaleStep": 10,
-    "scaleStepPrefix": "",
-    "scaleStepSuffix": "",
-    "_correctAnswer": "",
-    "_correctRange": {
-      "_bottom": 60,
-      "_top": 70
-    },
-    "_showNumber": false,
-    "_showScaleIndicator": false,
-    "_showScale": true,
-    "_showScaleNumbers": true,
-    "_feedback": {
-      "title": "Feedback",
-      "altTitle": "Alt feedback title text",
-      "correct": "Well done. A Risk Ratio of 0.35 corresponds to a decrease in risk of 65%.",
-      "_incorrect": {
-        "notFinal": "",
-        "final": "You didn't quite get the right answer. For a Risk Ratio of 0.35, there is a decrease in risk of 65%."
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false
-    }
-  },
-  {
-    "_id": "c-400",
-    "_parentId": "b-330",
-    "_type": "component",
-    "_component": "text",
-    "_classes": "",
-    "_layout": "full",
-    "title": "Confidence intervals",
-    "displayTitle": "",
-    "body": "Confidence intervals and p-values are presented with risk ratios, but we must remember that association may not be causal. \\[Risk\\,Difference=Risk\\,of\\,outcome\\,in\\,exposed-Risk\\,of\\,outcome\\,in\\,unexposed\\]<br> Risk difference measures the impact of exposure in units by comparing the absolute differences e.g., for every 100 smokers there will be an extra 30people with AMD.\\[Odds= \\frac{number\\,with\\,outcome}{number\\,without\\,outcome}\\]<br> For more rare conditions risk and odds are similar but for more common conditions odds are higher than risk. \\[Odds Ratio (OR)= \\frac{odds\\,of\\,outcome\\,in\\,exposed}{odds\\,of\\,outcome\\,in\\,unexposed}\\]<br>Logistic Regression is an extension of a simple odds ratio where additional exposures can be controlled for e.g., age or gender. Usually when controlling for cofounders the OR’s will reduce (closer to 1).",
-    "instruction": "",
     "_pageLevelProgress": {
       "_isEnabled": true
-    }
-  },
-  {
-    "_id": "c-410",
-    "_parentId": "b-335",
-    "_type": "component",
-    "_component": "text",
-    "_classes": "cog-icon",
-    "_layout": "full",
-    "title": "Optometry example",
-    "displayTitle": "",
-    "body": "Primary school students who spent <1 hour per day outdoors had 1.87 times the risk of myopia development compared to those who spent >3 hours per day outdoors. This correlates to an 87% increase in risk of myopia development in those spending <1 hour outdoors compared to those spending >3 hours outdoors.",
-    "instruction": "",
-    "_pageLevelProgress": {
-      "_isEnabled": false
     }
   },
   {
@@ -1151,7 +829,7 @@
     "_bulletAlignment": "start",
     "_items": [
       {
-        "title": "Statistical tests assume a null hypothesis of no relationship or no difference between groups. Then determine whether the observed data fall outside of the range of values predicted by the null hypothesis. ",
+        "title": "Repeatability of measurements refers to the variation in repeat measurements made on the same subject under identical conditions whereas reliability is the degree to which research method produces stable and consistent results.",
         "body": "",
         "_classes": "",
         "_graphic": {
@@ -1161,7 +839,7 @@
         }
       },
       {
-        "title": "T-tests are paired (repeated measures) or unpaired (independent). ANOVA compares 3 or more groups.",
+        "title": "Bland and Altman plots compare the agreement between two methods of measurement.",
         "body": "",
         "_classes": "",
         "_graphic": {
@@ -1171,7 +849,7 @@
         }
       },
       {
-        "title": "Chi-Squared testing explores relationships between categorical variables.",
+        "title": "Sensitivity and specificity are useful summary measures for describing the diagnostic utility of a testing method. ",
         "body": "",
         "_classes": "",
         "_graphic": {
@@ -1181,7 +859,57 @@
         }
       },
       {
-        "title": "Linear regression can be used to explore associations when the outcome is continuous. Logistic regression can be used to explore associations when the outcome of interest is binary.",
+        "title": "Statistical significance quantifies the probability of a study’s’ results being due to chance.",
+        "body": "",
+        "_classes": "",
+        "_graphic": {
+          "src": "",
+          "alt": "",
+          "attribution": ""
+        }
+      },
+      {
+        "title": "Clinical significance refers to the magnitude of the actual treatment effect, which will determine whether the results of a trial are likely to improve current clinical practice.",
+        "body": "",
+        "_classes": "",
+        "_graphic": {
+          "src": "",
+          "alt": "",
+          "attribution": ""
+        }
+      },
+      {
+        "title": "A low cost, easy to implement intervention may be clinically significant even with a small effect. Whereas an expensive, time-consuming intervention with undesirable side effects may only be clinically significant if it has a large effect.",
+        "body": "",
+        "_classes": "",
+        "_graphic": {
+          "src": "",
+          "alt": "",
+          "attribution": ""
+        }
+      },
+      {
+        "title": "Potential limitations to results could be not controlling for contributing factors, small sample size, or bias in study design. ",
+        "body": "",
+        "_classes": "",
+        "_graphic": {
+          "src": "",
+          "alt": "",
+          "attribution": ""
+        }
+      },
+      {
+        "title": "A clinician (practitioner) and the patient themselves can determine if a result is clinically significant or not. For change to be clinically significant it must make an obvious, quantitative improvement to their everyday functioning and sense of well-being.",
+        "body": "",
+        "_classes": "",
+        "_graphic": {
+          "src": "",
+          "alt": "",
+          "attribution": ""
+        }
+      },
+      {
+        "title": "The treatment effect size and 95% confidence intervals should also be assessed alongside p-values when examining for clinical significance. ",
         "body": "",
         "_classes": "",
         "_graphic": {
@@ -1205,7 +933,7 @@
     "_layout": "full",
     "title": "Assessment",
     "displayTitle": "Assessment",
-    "body": "To get accreditation for this learning module, complete the following assessment. Questions will display one at a time and you will 3 attempts for each question. To move from one question to the next, select the <strong>Continue</strong> button at the bottom of the screen. <br>This assessment consists of 5 questions.",
+    "body": "To get accreditation for this learning module, complete the following assessment. Questions will display one at a time and you will 3 attempts for each question. To move from one question to the next, select the <strong>Continue</strong> button at the bottom of the screen. <br>This assessment consists of 8 questions.",
     "instruction": "",
     "_pageLevelProgress": {
       "_isEnabled": true
@@ -1222,7 +950,7 @@
     "displayTitle": "Question {{questionNumber}} of {{questionCount}}",
     "body": "What is a paired t-test used for? ",
     "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
-    "ariaQuestion": "What is a paired t-test used for?",
+    "ariaQuestion": "What is a paired t-test used for? ",
     "_attempts": 1,
     "_shouldDisplayAttempts": false,
     "_isRandom": true,
@@ -1235,12 +963,17 @@
     "_recordInteraction": true,
     "_items": [
       {
-        "text": "Comparing the results from two groups that are related",
+        "text": "Reliability",
         "_shouldBeSelected": true,
         "_isPartlyCorrect": false
       },
       {
-        "text": "Comparing the results from two groups that are independent.",
+        "text": "Repeatability",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false
+      },
+      {
+        "text": "Agreement between methods",
         "_shouldBeSelected": false,
         "_isPartlyCorrect": false
       }
@@ -1271,9 +1004,9 @@
     "_layout": "full",
     "title": "MCQ",
     "displayTitle": "Question {{questionNumber}} of {{questionCount}}",
-    "body": "How does an ANOVA differ from a t-test?",
+    "body": "What is a Bland-Altman plot used to present?",
     "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
-    "ariaQuestion": "How does an ANOVA differ from a t-test?",
+    "ariaQuestion": "What is a Bland-Altman plot used to present?",
     "_attempts": 1,
     "_shouldDisplayAttempts": false,
     "_isRandom": false,
@@ -1286,12 +1019,17 @@
     "_recordInteraction": true,
     "_items": [
       {
-        "text": "More than three groups",
+        "text": "Agreement between methods",
         "_shouldBeSelected": true,
         "_isPartlyCorrect": false
       },
       {
-        "text": "More than two groups",
+        "text": "Repeatability",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false
+      },
+      {
+        "text": "Reliability",
         "_shouldBeSelected": false,
         "_isPartlyCorrect": false
       }
@@ -1322,9 +1060,9 @@
     "_layout": "full",
     "title": "MCQ",
     "displayTitle": "Question {{questionNumber}} of {{questionCount}}",
-    "body": "What does a risk ratio >1 mean? ",
+    "body": "What does specificity mean? ",
     "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
-    "ariaQuestion": "What does a risk ratio >1 mean? ",
+    "ariaQuestion": "What does specificity mean? ",
     "_attempts": 1,
     "_shouldDisplayAttempts": false,
     "_isRandom": true,
@@ -1337,12 +1075,12 @@
     "_recordInteraction": true,
     "_items": [
       {
-        "text": "Exposure is associated with increase in outcome",
+        "text": "The proportion of subjects without the pathology that are correctly identified.",
         "_shouldBeSelected": true,
         "_isPartlyCorrect": false
       },
       {
-        "text": "Exposure is associated with a decrease in outcome. ",
+        "text": "The proportion of subjects with the pathology that are correctly identified.",
         "_shouldBeSelected": false,
         "_isPartlyCorrect": false
       }
@@ -1373,9 +1111,9 @@
     "_layout": "full",
     "title": "MCQ",
     "displayTitle": "Question {{questionNumber}} of {{questionCount}}",
-    "body": "What is the difference in Linear and Logistic Regression?",
+    "body": "What is a p-value used to measure? ",
     "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
-    "ariaQuestion": "What is the difference in Linear and Logistic Regression?",
+    "ariaQuestion": "What is a p-value used to measure? ",
     "_attempts": 1,
     "_shouldDisplayAttempts": false,
     "_isRandom": true,
@@ -1388,12 +1126,12 @@
     "_recordInteraction": true,
     "_items": [
       {
-        "text": "Linear Regression the outcome is continuous and Logistic Regression the outcome is binary.",
+        "text": "Statistical significance. ",
         "_shouldBeSelected": true,
         "_isPartlyCorrect": false
       },
       {
-        "text": "Linear Regression the outcome is binary and Logistic Regression the outcome is continuous.",
+        "text": "Clinical significance. ",
         "_shouldBeSelected": false,
         "_isPartlyCorrect": false
       }
@@ -1419,53 +1157,164 @@
     "_id": "c-550",
     "_parentId": "b-450",
     "_type": "component",
-    "_component": "textinput",
+    "_component": "mcq",
     "_classes": "",
     "_layout": "full",
-    "title": "Question 3",
+    "title": "MCQ",
     "displayTitle": "Question {{questionNumber}} of {{questionCount}}",
-    "body": "Is Chi-Squared test for (a) continuous or (b) categorical data? ",
-    "instruction": "Input your answer and select Submit.",
-    "ariaQuestion": "Is Chi-Squared test for (a) continuous or (b) categorical data? ",
+    "body": "What is typically a significant p-value? ",
+    "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
+    "ariaQuestion": "What is typically a significant p-value? ",
     "_attempts": 1,
     "_shouldDisplayAttempts": false,
-    "_isRandom": false,
+    "_isRandom": true,
+    "_hasItemScoring": false,
     "_questionWeight": 1,
+    "_selectable": 1,
     "_canShowModelAnswer": true,
     "_canShowFeedback": true,
     "_canShowMarking": true,
     "_recordInteraction": true,
-    "_allowsAnyCase": true,
-    "_allowsPunctuation": true,
     "_items": [
       {
-        "_answers": [
-          "Categorical",
-          "categorical",
-          "b",
-          "B",
-          "(b)",
-          "(B)",
-          "Categorical data",
-          "Categorical Data",
-          "categorical data"
-        ],
-        "prefix": "",
-        "suffix": "",
-        "placeholder": "Enter answer here"
+        "text": "p<0.05",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false
+      },
+      {
+        "text": "p<0.01",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false
+      },
+      {
+        "text": "p=0.05",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false
+      },
+      {
+        "text": "p>0.05",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false
+      },
+      {
+        "text": "p=0.01",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false
       }
     ],
     "_feedback": {
       "title": "Feedback",
       "altTitle": "Alt feedback title text",
-      "correct": "This feedback will appear if you answered the question correctly.",
+      "correct": "Congratulations, this is the correct answer.",
       "_incorrect": {
         "notFinal": "",
-        "final": "This feedback will appear if you answered the question incorrectly."
+        "final": "You didn't get the right answer this time"
       },
       "_partlyCorrect": {
         "notFinal": "",
-        "final": "This feedback will appear if you answered part of the question correctly."
+        "final": "This feedback will appear if you answered the question correctly."
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_id": "c-565",
+    "_parentId": "b-465",
+    "_type": "component",
+    "_component": "mcq",
+    "_classes": "",
+    "_layout": "full",
+    "title": "MCQ",
+    "displayTitle": "Question {{questionNumber}} of {{questionCount}}",
+    "body": "What else should be considered before assuming clinical significance if something is statistically significant?",
+    "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
+    "ariaQuestion": "What else should be considered before assuming clinical significance if something is statistically significant?",
+    "_attempts": 1,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_recordInteraction": true,
+    "_items": [
+      {
+        "text": "Estimated effect size and 95% confidence intervals. ",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false
+      },
+      {
+        "text": "The sample size and limits of agreement.",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false
+      }
+    ],
+    "_feedback": {
+      "title": "Feedback",
+      "altTitle": "Alt feedback title text",
+      "correct": "Congratulations, this is the correct answer.",
+      "_incorrect": {
+        "notFinal": "",
+        "final": "You didn't get the right answer this time"
+      },
+      "_partlyCorrect": {
+        "notFinal": "",
+        "final": "This feedback will appear if you answered the question correctly."
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_id": "c-566",
+    "_parentId": "b-466",
+    "_type": "component",
+    "_component": "mcq",
+    "_classes": "",
+    "_layout": "full",
+    "title": "MCQ",
+    "displayTitle": "Question {{questionNumber}} of {{questionCount}}",
+    "body": "Is a statistically significant but expensive and time-consuming intervention going to be considered clinically significant with a small effect size or large effect size? ",
+    "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
+    "ariaQuestion": "Is a statistically significant but expensive and time-consuming intervention going to be considered clinically significant with a small effect size or large effect size? ",
+    "_attempts": 1,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_recordInteraction": true,
+    "_items": [
+      {
+        "text": "Large effect size.",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false
+      },
+      {
+        "text": "Small effect size.",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false
+      }
+    ],
+    "_feedback": {
+      "title": "Feedback",
+      "altTitle": "Alt feedback title text",
+      "correct": "Congratulations, this is the correct answer.",
+      "_incorrect": {
+        "notFinal": "",
+        "final": "You didn't get the right answer this time"
+      },
+      "_partlyCorrect": {
+        "notFinal": "",
+        "final": "This feedback will appear if you answered the question correctly."
       }
     },
     "_pageLevelProgress": {

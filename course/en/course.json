@@ -234,6 +234,9 @@
       "_youtube": {
         "ariaRegion": "This is a media component which displays a YouTube video. Select the play / pause button to watch it.",
         "skipToTranscript": "Skip to transcript"
+      },
+      "_dnd-multiple": {
+        "ariaRegion": "Drag and drop. Drag the items and then submit."
       }
     },
     "_menu": {
@@ -242,7 +245,7 @@
       }
     }
   },
-  "_latestTrackingId": 221,
+  "_latestTrackingId": 38,
   "_pageLevelProgress": {
     "_isEnabled": true,
     "_showPageCompletion": false,

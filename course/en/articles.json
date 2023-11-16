@@ -59,16 +59,7 @@
     "body": "",
     "instruction": ""
   },
-  {
-    "_id": "a-30",
-    "_parentId": "co-05",
-    "_type": "article",
-    "_classes": "alternate_bg_blue",
-    "title": "a-15",
-    "displayTitle": "",
-    "body": "",
-    "instruction": ""
-  },
+  
   {
     "_id": "a-35",
     "_parentId": "co-05",
@@ -108,7 +99,7 @@
       },
       "_randomisation": {
         "_isEnabled": true,
-        "_blockCount": 6
+        "_blockCount": 8
       },
       "_questions": {
         "_resetType": "hard",
