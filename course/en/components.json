@@ -294,76 +294,96 @@
     "_id": "c-230",
     "_parentId": "b-220",
     "_type": "component",
-    "_component": "list",
+    "_component": "cards",
     "_classes": "",
     "_layout": "full",
-    "title": "Chi-squared test",
-    "displayTitle": "Chi-squared test",
-    "body": "",
-    "instruction": "",
-    "_columns": 0,
-    "_orderedList": false,
-    "_animateList": false,
-    "_percentInviewVertical": 70,
-    "_itemHorizontalAlignment": "start",
-    "_bulletAlignment": "start",
+    "title": "Statistical vs Clinical Significance",
+    "displayTitle": "Statistical vs Clinical Significance",
+    "body": "In clinical research, study results which are statistically significant are often interpreted as being clinically important. While statistical significance indicates the reliability of the study results, clinical significance reflects its impact on clinical practice. ",
+    "instruction": "Click the cards to see more information.",
+    "_hasClickButton": false,
+    "_setCompletionOn": "allItems",
+    "_animateItems": true,
+    "_percentInviewVertical": 10,
+    "_transitionSpeed": 200,
+    "_columns": {
+      "small": 1,
+      "medium": 2,
+      "large": 2,
+      "xlarge": 2
+    },
+    "_itemMinHeight": 0,
+    "_autoSetHeight": false,
+    "_scrollPadding": 0,
     "_items": [
       {
-        "title": "Chi-Squared test is for categorical data.",
+        "title": "",
         "body": "",
-        "_classes": "",
         "_graphic": {
-          "src": "",
-          "alt": "",
-          "attribution": ""
-        }
+          "src": "course/en/images/statistical.png",
+          "alt": "A small diagram denoting statistics"
+        },
+        "_hasAction": true,
+        "_buttons": {
+          "_open": {
+            "buttonText": "Open",
+            "ariaLabel": "Select here to show more."
+          },
+          "_close": {
+            "buttonText": "Close",
+            "ariaLabel": "Select here to close."
+          }
+        },
+        "description": {
+          "title": "Statistical Significance",
+          "body": "Statistical significance quantifies the probability of a study's results being due to chance. ",
+          "_graphic": {
+            "src": "",
+            "alt": ""
+          }
+        },
+        "_classes": ""
       },
       {
-        "title": "Chi-Squared works out the observed frequency and then the expected frequency if the null hypothesis is true: ",
-        "body": "\\[Expected\\,frequency = \\frac{row\\, total\\, \\times\\, column\\, total}{overall\\, total}\\]",
-        "_classes": "",
-        "_graphic": {
-          "src": "",
-          "alt": "",
-          "attribution": ""
-        }
-      },
-      {
-        "title": "The discrepancy between the observed number and the expected number if the null hypothesis is true:",
-        "body": "\\[X^2= å \\frac{(observed-expected)^2}{expected}\\]",
-        "_classes": "",
-        "_graphic": {
-          "src": "",
-          "alt": "",
-          "attribution": ""
-        }
-      },
-      {
-        "title": "Chi-squared test requires that 80% of cells have expected frequencies of >5 and all cells have expected frequencies of >1.",
+        "title": "",
         "body": "",
-        "_classes": "",
         "_graphic": {
-          "src": "",
-          "alt": "",
-          "attribution": ""
-        }
+          "src": "course/en/images/clinical.png",
+          "alt": "3 silouhettes, denoting a human aspect."
+        },
+        "_hasAction": true,
+        "_buttons": {
+          "_open": {
+            "buttonText": "Open",
+            "ariaLabel": "Select here to show more."
+          },
+          "_close": {
+            "buttonText": "Close",
+            "ariaLabel": "Select here to close."
+          }
+        },
+        "description": {
+          "title": "Clinical Significance",
+          "body": "Clinical significance refers to the magnitude of the actual treatment effect (i.e., the difference between the intervention and control groups, also known as the “treatment effect size”), which will determine whether the results of the trial are likely to impact current clinical practice.",
+          "_graphic": {
+            "src": "",
+            "alt": ""
+          }
+        },
+        "_classes": ""
       }
-    ],
-    "bodyAfter": "",
-    "_pageLevelProgress": {
-      "_isEnabled": true
-    }
+    ]
   },
   {
     "_id": "c-226",
     "_parentId": "b-230",
     "_type": "component",
     "_component": "text",
-    "_classes": "cog-icon",
+    "_classes": "info-icon",
     "_layout": "full",
-    "title": "Chi-Squared test",
+    "title": "p-value",
     "displayTitle": "",
-    "body": "A Chi-Squared test for independence indicated a significant association between the use of allergy wipes and signs of allergic conjunctivitis reported on visit 2:  \\[X^2 (1, n=20) =7.27\\]\\[p=0.007\\] \\[phi=-0.70\\] All 20 participants had signs of allergic conjunctivitis on visit 1, but by visit 2 only 11 still had signs. 80% of those who used lid wipes had no signs of allergic conjunctivitis on visit 2, compared to 10% of those who did not use lid wipes. ",
+    "body": "The p-value, frequently used to measure statistical significance, is the probability that the study results are due to chance rather than to a real treatment effect/ difference between groups. The conventional cut off for the p-value to be considered statistically significant is 0.05 (or 5%). A p<0.05 implies that the possibility of the results in a study being due to chance is <5% (less than a one in twenty chance). ",
     "instruction": "",
     "_pageLevelProgress": {
       "_isEnabled": false
@@ -374,14 +394,110 @@
     "_parentId": "b-231",
     "_type": "component",
     "_component": "text",
-    "_classes": "cog-icon",
+    "_classes": "",
     "_layout": "full",
     "title": "",
     "displayTitle": "",
-    "body": "There is no significant relationship between sex and presence/absence of AMD in a group of over 65’s: \\[X^2=7.24\\] \\[df=1\\] \\[p=0.087\\]",
+    "body": "However, there are flaws and misconceptions to the meaning of p-values as discussed by Goodman (2011), which are listed below. Most notable is point 3, “A statistically significant finding is clinically important”. A statistically significant result does not mean the finding is clinically important. The difference could be too small to be clinically important. Firstly, the p-value carries no information about the magnitude of an effect. This would be indicated by the effect estimate (effect size) and/ or confidence interval. Second, the end point may itself not be clinically important, as it could occur with some surrogate outcomes.",
     "instruction": "",
     "_pageLevelProgress": {
       "_isEnabled": false
+    }
+  },
+  {
+  "_id": "c-233",
+    "_parentId": "b-231",
+    "_type": "component",
+    "_component": "text",
+    "_classes": "",
+    "_layout": "full",
+    "title": "",
+    "displayTitle": "",
+    "body": "<table border='1'><caption>Table 1 Twelve P-Value Misconceptions</caption><tr><td>1.</td><td>If P = .05, the null hypothesis has only a 5% chance of being true.</td></tr><tr><td>2.</td><td>A nonsignificant difference (eg, P ≥.05) means there is no difference between groups.</td></tr><tr><td>3.</td><td>A statistically significant finding is clinically important.</td></tr><tr><td>4.</td><td>Studies with P values on opposite sides of .05 are conflicting.</td></tr><tr><td>5.</td><td>Studies with the same P value provide the same evidence against the null hypothesis.</td></tr><tr><td>6.</td><td>P = .05 means that we have observed data that would occur only 5% of the time under the null hypothesis.</td></tr> <tr><td>7.</td><td>P = .05 and P ≤.05 mean the same thing.</td></tr><tr><td>8.</td><td>P values are properly written as inequalities (eg, “P ≤.02” when P = .015)</td></tr><tr><td>9.</td><td>P = .05 means that if you reject the null hypothesis, the probability of a type I error is only 5%.</td></tr><tr><td>10.</td><td>With a P = .05 threshold for significance, the chance of a type I error will be 5%.</td></tr><tr><td>11.</td><td>You should use a one-sided P value when you don’t care about a result in one direction, or a difference in that direction is impossible.</td></tr><tr><td>12.</td><td>A scientific conclusion or treatment policy should be based on whether or not the P value is significant.</td></tr></table>",
+    "instruction": "",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_id": "c-232",
+    "_parentId": "b-231",
+    "_type": "component",
+    "_component": "graphic",
+    "_classes": "",
+    "_layout": "full",
+    "title": "",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "Click open the link to the paper.",
+    "_graphic": {
+      "alt": "",
+      "longdescription":  "",
+      "large": "course/en/images/pValueMisc.png",
+      "small": "course/en/images/pValueMisc.png",
+      "attribution": "",
+      "_url": "https://www.ohri.ca/newsroom/seminars/SeminarUploads/1829%5CSuggested%20Reading%20-%20Nov%203,%202014.pdf",
+      "_target": ""
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0,
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+  "_id": "c-234",
+    "_parentId": "b-231",
+    "_type": "component",
+    "_component": "text",
+    "_classes": "info-icon",
+    "_layout": "full",
+    "title": "",
+    "displayTitle": "",
+    "body": "The magnitude of an observed effect and the uncertainty regarding it should always be considered when interpreting statistical evidence. Whenever possible, a statistical analysis which produces an effect size estimate with associated uncertainty (difference in means and its confidence intervals) rather than solely a p value should be used and reported (Cook et al., 2015). ",
+    "instruction": "",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    }
+  },
+  {
+    "_id": "c-235",
+    "_parentId": "b-231",
+    "_type": "component",
+    "_classes": "",
+    "_layout": "full",
+    "_component": "youtube",
+    "title": "The first video on YouTube",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_setCompletionOn": "play",
+    "_media": {
+        "_source": "//www.youtube.com/embed/vB-9QVbKNTY",
+        "_controls": true,
+        "_allowFullscreen": true,
+        "_playsinline": false,
+        "_aspectRatio": 1.77,
+        "_autoplay": false,
+        "_showRelated": false,
+        "_loop": false,
+        "_modestBranding": true,
+        "_playbackQuality": "hd720",
+        "_showAnnotations": false,
+        "_progressColor": "red"
+    },
+    "_transcript": {
+        "_setCompletionOnView": true,
+        "_inlineTranscript": true,
+        "_externalTranscript": false,
+        "inlineTranscriptButton": "Transcript",
+        "inlineTranscriptCloseButton": "Close Transcript",
+        "inlineTranscriptBody": "<p>Statistical significance is not the same as clinical significance. Bad data at home can mislead, which is why it's important to look at the outcomes of cardiovascular trials. Researchers should drop preconceived notions and instead focus on the testicular test. My upbringing in clinical trial results can differ in terms of the range of possible results, as defined by confidence intervals, which should be considered when making clinical recommendations.</p><p>Investigators often use data from cohort studies that have found each variable to be significantly important. For example, a medication may significantly improve a patient's health, or computer algorithms may identify new surgical techniques that are significantly better than the current treatment being used. The answer to this question is not as straightforward as one might think; a single figure in the calculations can make the results more meaningful, but what happens next is more effective treatment that is considered vital to showing significant results.</p><p>Researchers should not shy away from these discoveries, as statistical significance does not necessarily suggest that the researchers have found clinical relevance. Directing this critical analysis toward thousands of potential clinical studies, a team of Canadian researchers focused on cardiovascular trials. They examined study design, p-values, and the primary outcomes. They found that almost three-quarters of trials reported statistically significant results.</p><p>According to the new study, however, sixty percent of these cases had high potential for actual clinical implications, despite statistical analyses finding them to be insignificant. Just because a medical treatment has not reached statistical significance doesn't rule out the possibility that it may be beneficial or harmful. We must look beyond p-values.</p><p>Researchers run the risk of missing potentially useful results that affect research teams. The research team suggests adopting a broader view in which all potential meaningful effects are considered before making clinical recommendations.</p>",
+        "transcriptLinkButton": "Transcript",
+        "transcriptLink": "assets/transcript.pdf"
+    },
+    "_pageLevelProgress": {
+        "_isEnabled": true
     }
   },
   {
