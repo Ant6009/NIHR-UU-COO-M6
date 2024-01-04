@@ -166,7 +166,7 @@
     "_layout": "full",
     "title": "Test your knowledge",
     "displayTitle": "",
-    "body": "The solid line indicates the mean of the paired differences; its distance from zero provides an estimate of the systematic bias between the two methods. The dashed lines indicate the estimated <b>limits of agreement</b> (LOA). The LOA give a range within which we expect 95% of differences in measurements between the two methods to lie. To estimate them, we first calculate the mean and SD of the paired differences.\\[Upper\\,LOA=mean\\,difference+1.96\\times SD\\] \\[Lower\\,LOA=mean\\,difference-1.96\\times SD\\]",
+    "body": "The solid line indicates the mean of the paired differences; its distance from zero provides an estimate of the systematic bias between the two methods. The dashed lines indicate the estimated <b>limits of agreement</b> (LOA). The LOA give a range within which we expect 95% of differences in measurements between the two methods to lie. To estimate them, we first calculate the mean and SD of the paired differences.\\[Upper\\,LOA=mean\\,\\text{difference}+1.96\\times SD\\] \\[Lower\\,LOA=mean\\,\\text{difference}-1.96\\times SD\\]",
     "instruction": "",
     "_pageLevelProgress": {
       "_isEnabled": false
