@@ -197,7 +197,7 @@
     "_layout": "left",
     "title": "Sensitivity",
     "displayTitle": "",
-    "body": "<b>Sensitivity</b> is the proportion of subjects with the pathology that are correctly identified by the test. \\[Sensitivity = True\\, positives/ all\\, those\\, with\\, the\\, pathology\\]",
+    "body": "<b>Sensitivity</b> is the proportion of subjects with the pathology that are correctly identified by the test. \\[\\text{Sensitivity} = \\frac{\\text{True positives}} {\\text{all those with the pathology}}\\]",
     "instruction": "",
     "_pageLevelProgress": {
       "_isEnabled": false,
@@ -213,7 +213,7 @@
     "_layout": "right",
     "title": "  Specificity",
     "displayTitle": "",
-    "body": "<b>Specificity</b> is the proportion of subjects without the pathology that are correctly identified by the test. \\[Specificity= True\\, negatives/ all\\, those\\, without\\, the\\, pathology\\]",
+    "body": "<b>Specificity</b> is the proportion of subjects without the pathology that are correctly identified by the test. \\[\\text{Specificity}= \\frac{ \\text{True negatives}} {\\text{all those without the pathology}}\\]",
     "instruction": "",
     "_pageLevelProgress": {
       "_isEnabled": false,
@@ -613,7 +613,7 @@
         ]
       },
       {
-        "text": "A result is statistically _____________ if p<0.05.",
+        "text": "A result is _____________ significant if p<0.05.",
         "_options": [
           {
             "text": "Clinically",
@@ -950,9 +950,9 @@
     "_layout": "full",
     "title": "MCQ",
     "displayTitle": "Question {{questionNumber}} of {{questionCount}}",
-    "body": "What is a paired t-test used for? ",
+    "body": "What is the Intraclass Correlation Coefficient (ICC) a measure of?  ",
     "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
-    "ariaQuestion": "What is a paired t-test used for? ",
+    "ariaQuestion": "What is the Intraclass Correlation Coefficient (ICC) a measure of?  ",
     "_attempts": 1,
     "_shouldDisplayAttempts": false,
     "_isRandom": true,
@@ -965,8 +965,8 @@
     "_recordInteraction": true,
     "_items": [
       {
-        "text": "Reliability",
-        "_shouldBeSelected": true,
+        "text": "Agreement between methods",
+        "_shouldBeSelected": false,
         "_isPartlyCorrect": false
       },
       {
@@ -975,18 +975,18 @@
         "_isPartlyCorrect": false
       },
       {
-        "text": "Agreement between methods",
-        "_shouldBeSelected": false,
+        "text": "Reliability",
+        "_shouldBeSelected": true,
         "_isPartlyCorrect": false
       }
     ],
     "_feedback": {
       "title": "Feedback",
       "altTitle": "Alt feedback title text",
-      "correct": "Congratulations, this is the correct answer.",
+      "correct": "Congratulations, this is the correct answer. ICC is the correlation between two measurements made on the same subject and reliability takes values between zero and one",
       "_incorrect": {
         "notFinal": "",
-        "final": "You didn't get the right answer this time"
+        "final": "You didn't get the right answer this time. ICC is the correlation between two measurements made on the same subject and reliability takes values between zero and one"
       },
       "_partlyCorrect": {
         "notFinal": "",
@@ -1039,10 +1039,10 @@
     "_feedback": {
       "title": "Feedback",
       "altTitle": "Alt feedback title text",
-      "correct": "Congratulations, this is the correct answer.",
+      "correct": "Congratulations, this is the correct answer. A Bland-Altman plot, also known as a mean difference plot, is frequently used to examine agreement between methods and plots the difference of each subjects' measurements from the two methods against the means of their measurements.",
       "_incorrect": {
         "notFinal": "",
-        "final": "You didn't get the right answer this time"
+        "final": "You didn't get the right answer this time. A Bland-Altman plot, also known as a mean difference plot, is frequently used to examine agreement between methods and plots the difference of each subjects' measurements from the two methods against the means of their measurements."
       },
       "_partlyCorrect": {
         "notFinal": "",
@@ -1090,10 +1090,10 @@
     "_feedback": {
       "title": "Feedback",
       "altTitle": "Alt feedback title text",
-      "correct": "Congratulations, this is the correct answer.",
+      "correct": "Congratulations, this is the correct answer. Specificity is the proportion of subjects without the pathology that are correctly identified by the test. Specificity= True negatives/ all those without the pathology.",
       "_incorrect": {
         "notFinal": "",
-        "final": "You didn't get the right answer this time"
+        "final": "You didn't get the right answer this time. Specificity is the proportion of subjects without the pathology that are correctly identified by the test. Specificity= True negatives/ all those without the pathology."
       },
       "_partlyCorrect": {
         "notFinal": "",
@@ -1141,10 +1141,10 @@
     "_feedback": {
       "title": "Feedback",
       "altTitle": "Alt feedback title text",
-      "correct": "Congratulations, this is the correct answer.",
+      "correct": "Congratulations, this is the correct answer. Statistical significance quantifies the probability of the study's results being due to chance and is demonstrated with a p-value. Clinical significance refers to the magnitude of the actual treatment effect and determines whether the results of the trial are likely to impact current clinical practice.",
       "_incorrect": {
         "notFinal": "",
-        "final": "You didn't get the right answer this time"
+        "final": "You didn't get the right answer this time. Statistical significance quantifies the probability of the study's results being due to chance and is demonstrated with a p-value. Clinical significance refers to the magnitude of the actual treatment effect and determines whether the results of the trial are likely to impact current clinical practice."
       },
       "_partlyCorrect": {
         "notFinal": "",
@@ -1207,10 +1207,10 @@
     "_feedback": {
       "title": "Feedback",
       "altTitle": "Alt feedback title text",
-      "correct": "Congratulations, this is the correct answer.",
+      "correct": "Congratulations, this is the correct answer. P<0.05 is a conventional cut-off for statistical significance and means that the possibility of results in a study being due to chance is <5%.",
       "_incorrect": {
         "notFinal": "",
-        "final": "You didn't get the right answer this time"
+        "final": "You didn't get the right answer this time. P<0.05 is a conventional cut-off for statistical significance and means that the possibility of results in a study being due to chance is <5%."
       },
       "_partlyCorrect": {
         "notFinal": "",
@@ -1258,10 +1258,10 @@
     "_feedback": {
       "title": "Feedback",
       "altTitle": "Alt feedback title text",
-      "correct": "Congratulations, this is the correct answer.",
+      "correct": "Congratulations, this is the correct answer. The effect size and 95% confidence intervals can help determine if a statistically significant result is going to be clinically important or not.",
       "_incorrect": {
         "notFinal": "",
-        "final": "You didn't get the right answer this time"
+        "final": "You didn't get the right answer this time. The effect size and 95% confidence intervals can help determine if a statistically significant result is going to be clinically important or not."
       },
       "_partlyCorrect": {
         "notFinal": "",
@@ -1309,10 +1309,10 @@
     "_feedback": {
       "title": "Feedback",
       "altTitle": "Alt feedback title text",
-      "correct": "Congratulations, this is the correct answer.",
+      "correct": "Congratulations, this is the correct answer. The effect size for both clinicians and patients themselves would need to be large to excuse an expensive and time-consuming intervention I.e. a long-lasting solution with a large increase in quality of life for a patient.",
       "_incorrect": {
         "notFinal": "",
-        "final": "You didn't get the right answer this time"
+        "final": "You didn't get the right answer this time. The effect size for both clinicians and patients themselves would need to be large to excuse an expensive and time-consuming intervention I.e. a long-lasting solution with a large increase in quality of life for a patient."
       },
       "_partlyCorrect": {
         "notFinal": "",
